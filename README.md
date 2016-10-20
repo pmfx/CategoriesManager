@@ -2,7 +2,8 @@
 
 MODX Evolution Categories Management Module.
 
-![screenshot_1](http://image.prntscr.com/image/4a00dc7d8ed14a2f84fe1222ee610bef.png)
+![screenshot_1](http://image.prntscr.com/image/04a9825fdfa644d5b996d8f9ccaef0da.png)
+![screenshot_2](http://image.prntscr.com/image/70f6f44ad4f845c09fd7d8f12c22e42d.png)
 
 **Install**
 
@@ -38,10 +39,10 @@ Finish
 
 **History**
 
-- 2016-10-20 Make plugin compatible with MODX install script (pmfx)
+- 2016-10-20 Make module compatible with MODX install script (pmfx)
 - 2016-10-15 Some refactoring and styling (pmfx)
 - 2009-11-10 Original v0.2.2-beta released by stefan
 
 **Credits**
 
-Plugin originaly created by stefan https://modx.com/extras/author/stefan
+Module originaly created by stefan https://modx.com/extras/author/stefan
