@@ -1,3 +1,7 @@
+# Deprecated
+
+## Since Evolution CMS 1.3.x CategoriesManager is built-in into the system :)
+
 # Categories Manager
 
 MODX Evolution Categories Management Module.
